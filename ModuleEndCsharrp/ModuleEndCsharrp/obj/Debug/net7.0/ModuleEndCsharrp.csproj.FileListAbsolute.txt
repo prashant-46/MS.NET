@@ -1,0 +1,15 @@
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\bin\Debug\net7.0\ModuleEndCsharrp.exe
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\bin\Debug\net7.0\ModuleEndCsharrp.deps.json
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\bin\Debug\net7.0\ModuleEndCsharrp.runtimeconfig.json
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\bin\Debug\net7.0\ModuleEndCsharrp.dll
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\bin\Debug\net7.0\ModuleEndCsharrp.pdb
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\obj\Debug\net7.0\ModuleEndCsharrp.csproj.AssemblyReference.cache
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\obj\Debug\net7.0\ModuleEndCsharrp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\obj\Debug\net7.0\ModuleEndCsharrp.AssemblyInfoInputs.cache
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\obj\Debug\net7.0\ModuleEndCsharrp.AssemblyInfo.cs
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\obj\Debug\net7.0\ModuleEndCsharrp.csproj.CoreCompileInputs.cache
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\obj\Debug\net7.0\ModuleEndCsharrp.dll
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\obj\Debug\net7.0\refint\ModuleEndCsharrp.dll
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\obj\Debug\net7.0\ModuleEndCsharrp.pdb
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\obj\Debug\net7.0\ModuleEndCsharrp.genruntimeconfig.cache
+D:\CDAC\DAC\MS.Net\Workspace\ModuleEndCsharrp\ModuleEndCsharrp\obj\Debug\net7.0\ref\ModuleEndCsharrp.dll

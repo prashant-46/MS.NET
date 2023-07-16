@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Login"] = "Login Page";
+}
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-pzjw8k+TqDRTTFKv+l/Cr5qfPxNL1ic+E99o8gd5MwwU5fBWf4UfGJw6TA0Dw4oJ" crossorigin="anonymous">
+<h1>Welcome to College</h1>
+<br />
+<p>This is the Login page.</p>
+
+<h2>Student Login</h2>
+<form method="post" action="/Student/Login">
+    <div class="form-group">
+        <label for="studentEmail">Email:</label>
+        <input type="email" id="studentEmail" name="studentEmail" class="form-control" required />
+    </div>
+    <br />
+    <div class="form-group">
+        <label for="studentPassword">Password:</label>
+        <input type="password" id="studentPassword" name="studentPassword" class="form-control" required />
+    </div>
+    <br />
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Login</button>
+    </div>
+</form>
